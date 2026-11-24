@@ -1,3 +1,4 @@
+<img src="Cadastrar.png" width="200">
 # Sistema de Cadastro em Python
 
 Projeto desenvolvido em Python com o objetivo de praticar lógica de programação.
